@@ -22,6 +22,5 @@ There is another optional to get all the cities that contain a specific name of 
  Stack - HTML,CSS,JS Vanila
 
 
-Picture from the Web Apllication:
 ![ללא שם](https://user-images.githubusercontent.com/50213140/199534508-3fbf95db-e5ae-4d75-8216-d7778f348b90.png)
 
