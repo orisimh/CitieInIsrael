@@ -1,4 +1,4 @@
-# CitiesInIsrael
+# Cities In Israel
 
 
 Building a page containing a list of cities in Israel.
