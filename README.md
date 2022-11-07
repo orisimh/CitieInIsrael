@@ -18,7 +18,7 @@ There is another optional to get all the cities that contain a specific name of 
  Stack - ASP.NET CORE WEB API
  
 ## Fronted Folder- Client
- Stack - HTML,CSS,JS Vanila
+ Stack - HTML,CSS, Vanila JS
 
 
 ![ללא שם](https://user-images.githubusercontent.com/50213140/199534508-3fbf95db-e5ae-4d75-8216-d7778f348b90.png)
